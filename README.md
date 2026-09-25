@@ -24,4 +24,14 @@ Making this repo to keep a track of my work of solving DSA problems on github us
 
 ### Strings
 
+### Linked-List
 
+### Stack
+
+### Queue
+
+### Binary Search
+
+### Trees
+
+### Graphs
