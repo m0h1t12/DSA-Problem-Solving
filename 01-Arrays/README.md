@@ -1,5 +1,3 @@
-# DSA-Problem-Solving
+# Arrays
 
-#Arrays problems
-
---two sum
+Problems related to arrays.
