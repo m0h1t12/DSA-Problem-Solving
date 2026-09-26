@@ -19,12 +19,12 @@ Making this repo to keep a track of my work of solving DSA problems on github us
 ## Problems
 
 ### Arrays
-    01--Rotate Array by One Position   --- from GeeksforGeeks.
-    02--Spiral Matrix   --- from Leetcode.
+    01--Rotate Array by One Position   --- GeeksforGeeks.
+    02--Spiral Matrix   ---  Leetcode.
 
 
 ### Strings
-    01--Rotate String   --- from Leetcode.
+    01--Rotate String   ---  Leetcode.
 
 ### Linked-List
 
