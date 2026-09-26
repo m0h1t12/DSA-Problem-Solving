@@ -24,6 +24,7 @@ Making this repo to keep a track of my work of solving DSA problems on github us
 
 
 ### Strings
+    01--Rotate String   --- from Leetcode.
 
 ### Linked-List
 
