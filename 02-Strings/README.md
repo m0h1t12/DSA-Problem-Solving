@@ -6,3 +6,4 @@ Problems related to strings.
 - 02--Isomorphic Strings   --- Leetcode.
 - 03--Longest Common Prefix   --- Leetcode.
 - 04-- Count Prefixes of given String  --- Leetcode
+- 05--Valid Anagram  --- Leetcode
